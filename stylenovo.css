@@ -1,0 +1,105 @@
+﻿body {
+	background-color: #000;
+}
+.fichamodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #FFF;
+	font-weight: bold;
+}
+.dadosmodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #F00;
+    font-weight: bold;
+}
+.avisoligar {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+}
+.avisopagina {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #900;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+}
+.avisorestrito {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+}
+.nomemodelo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+	color: #900;
+    font-weight: bold;
+}
+.exclusiva {
+	color: #F00;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+}
+.aviso1 {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+}
+.texto {
+	color: #F00;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+}
+.tags {
+	color: #fff;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-weight: bold;
+    text-align: center;
+}
+.tagrodape {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+.tagrodapedestaque {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #F00;
+	font-weight: bold;
+	text-align: center;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	color: #FFF;
+	font-weight: bold;
+}
+a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #F00;
+	text-decoration: none;
+}
+a:active {
+	color: #F00;
+	text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+}
